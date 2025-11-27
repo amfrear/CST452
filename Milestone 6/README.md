@@ -72,13 +72,6 @@ https://github.com/amfrear/MedicalJourneyLog
 ### GitHub Pages Portfolio
 https://amfrear.github.io/MedicalJourneyLog/
 
-### Demonstration Videos
-- **App Walkthrough:**  
-  https://www.loom.com/share/9252d31ce9064b70950d87a07015f02c
-
-- **Code Review:**  
-  https://www.loom.com/share/29e7e00f443d45c9b314e61060a7b9ab
-
 ### Technology Showcase Poster
 Included in the main repository and linked on the portfolio.
 
